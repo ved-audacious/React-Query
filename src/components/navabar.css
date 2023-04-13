@@ -1,0 +1,23 @@
+.navbar{
+    height: 60px;
+    display: flex;
+     background-color:blueviolet ;
+     padding-left: 750px;
+    
+} 
+.navbar ul{
+    display: flex;
+    list-style: none;
+    
+    
+}
+.navbar ul li{
+    margin: 7px;
+    
+}
+.navbar ul li a{
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+    color: black;
+}

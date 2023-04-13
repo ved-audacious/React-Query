@@ -1,0 +1,66 @@
+{
+    "superheroes": [
+        {
+            "id": 1,
+            "name": "Batman",
+            "alterName": "chamgadarAadmi"
+        },
+        {
+            "id": 2,
+            "name": "Shaktiman",
+            "alterName": "MukeshKhanna"
+        },
+        {
+            "id": 3,
+            "name": "JuniorJiii",
+            "alterName": "JuniorBoy"
+        },
+        {
+            "id": 4,
+            "name": "Spiderman",
+            "alterName": "MakdiAadmi"
+        }
+    ],
+
+    "friends": [
+        {
+            "id": 1,
+            "fname": "uttam"
+        },
+        {
+            "id": 2,
+            "fname": "pankaj"
+        },
+        {
+            "id": 3,
+            "fname": "rohit"
+        },
+        {
+            "id": 4,
+            "fname": "anurag"
+        }
+        
+    ],
+       "users":[
+        {
+            "id": "vedprakash12698@gmail.com",
+            "channelid":"vedXx"
+        },
+        {
+            "id": "vedprkash.verma@techiegent.com",
+            "channelid":"Audiexx"
+        }
+       ],
+       "channels":[
+        {
+            "id": "vedXx",
+            "courses":["JS","React","Nextjs","ReactQuery"]
+        },
+        {
+            "id": "Audiexx",
+            "courses":["JS","React","Nextjs"]
+        }
+       ]
+
+
+}
